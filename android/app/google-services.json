@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147665613024",
+    "project_id": "chat-app-31d14",
+    "storage_bucket": "chat-app-31d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147665613024:android:7322393e6029aca74b6085",
+        "android_client_info": {
+          "package_name": "uz.bazarov.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147665613024-rdbpf5cnia2hs81egua41ugtbfuci6tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xuXtFeutuYpArEysteVznXNoFKuiraY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147665613024-rdbpf5cnia2hs81egua41ugtbfuci6tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
